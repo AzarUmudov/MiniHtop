@@ -1,4 +1,4 @@
-# CppND-System-Monitor
+# MiniHtop
 
 Linux System Monitor Project for the Udacity C++ Nanodegree Program
 
